@@ -52,7 +52,8 @@ router.put('/:id', async (req, res) => {
       res.status(404).json('Category not found');
     }
   } catch (err) {
-    res.status(500).json(err);
+    console.error(err); // Log the error to the console
+    res.status(500).json(err); // Send the error to the client
   }
 });
 
@@ -67,7 +68,8 @@ router.delete('/:id', async (req, res) => {
       res.status(404).json('Category not found');
     }
   } catch (err) {
-    res.status(500).json(err);
+    console.error(err); // Log the error to the console
+    res.status(500).json(err); // Send the error to the client
   }
 });
 

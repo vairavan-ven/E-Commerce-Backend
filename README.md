@@ -16,7 +16,7 @@ install the needed depndencies, input npm run seed, then npm start to run the se
 
 ## Usage
 mySQL walkthrough: https://drive.google.com/file/d/1eLjq7STStVGafOVSe6yeS9Tp6g9e5aFO/view
-
+Insmonia Walkthrough: https://drive.google.com/file/d/1UXrzUit9jHwO2OsOMehZIsA8HHgj1Kcn/view
 
 
 ## License
