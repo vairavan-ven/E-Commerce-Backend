@@ -12,10 +12,11 @@ Backend for an e-commerce website
 - [Questions](#questions)
 
 ## Installation
-install the needed depndencies
+install the needed depndencies, input npm run seed, then npm start to run the server
 
 ## Usage
-npm run seed, then npm start to run the server
+mySQL walkthrough: https://drive.google.com/file/d/1eLjq7STStVGafOVSe6yeS9Tp6g9e5aFO/view
+
 
 
 ## License
